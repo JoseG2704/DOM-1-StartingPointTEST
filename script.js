@@ -14,7 +14,7 @@ const secondItems = document.getElementsByClassName("second");
 const ThirdInOl = document.querySelector("ol .third");
 
 //#5 Give the section with an id of container the text "Hello!".
-
+document.querySelector('.footer').classList.add('main');
 
 //#6 Add the class main to the div with a class of footer.
 
