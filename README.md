@@ -1,3 +1,6 @@
+
+![Screenshot 2025-06-18 104324](https://github.com/user-attachments/assets/b5c1f60d-2bac-4f25-87e0-3c2cc72d5903)
+
 # DOM I Assignment
 
 This is the starting point for the DOM I assignment. On your team, pick one person to be the owner of the repo.
